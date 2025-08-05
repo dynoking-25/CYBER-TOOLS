@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Advanced Port Scanner Tool
-# Author: Hemil Pnachal
+# Author: Hemil Panchal
 # Purpose: Comprehensive Information Gathering
 
 clear
@@ -17,7 +17,7 @@ echo -e "\e[0m"
 echo "----------------------------------------------------------------"
 echo "         ADVANCED PORT SCANNER - INFORMATION GATHERING          "
 echo "----------------------------------------------------------------"
-echo -e "\e[1;33mAuthor: Hemil Pnachal\e[0m"
+echo -e "\e[1;33mAuthor: Hemil Panchal\e[0m"
 echo -e "\e[1;33mVersion: 3.0\e[0m"
 echo
 
