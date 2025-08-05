@@ -6,7 +6,7 @@
 
 # **Advanced Port Scanner Tool - Description**  
 
-**Author:** Hemil Pnachal  
+**Author:** Hemil Panchal  
 **Version:** 3.0  
 **Purpose:** Comprehensive **Network Scanning & Information Gathering**  
 
